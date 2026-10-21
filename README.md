@@ -62,4 +62,4 @@ Para probar la comunicación entre jugadores, abre el juego en dos pestañas o v
 🎓 Certificado de Programación Básica
 Puedes consultar el enlace que compartí relacionado con el certificado de Programación Básica de Platzi:
 
-🔗 Certificado / enlace compartido
+🔗 Certificado / https://platzi.com/p/cristovalpayares/curso/3208-course/diploma/detalle/
